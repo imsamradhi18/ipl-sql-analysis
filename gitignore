@@ -1,8 +1,0 @@
-# Large raw data file (over GitHub's 100 MB limit); download from Kaggle instead
-data/IPL.csv
-data/*.csv
-
-# OS and editor files
-.DS_Store
-Thumbs.db
-*.bak
