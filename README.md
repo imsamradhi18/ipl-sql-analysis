@@ -116,4 +116,4 @@ Relational schema design (primary and foreign keys, indexes), `JOIN` (inner and 
 
 ## Author
 
-[Your Name] | [LinkedIn link] | [Email]
+SAMRADHI PALIWAL | https://www.linkedin.com/in/samradhi-paliwal/ | psamradhi.18@gmail.com
